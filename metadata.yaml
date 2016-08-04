@@ -1,0 +1,34 @@
+_repo: The-Ways-of-Men_319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gregory, Eliot
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '178'
+    url: http://www.gutenberg.org/2009/agents/178
+description: ''
+gutenberg_issued: '1995-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+- GITenberg
+tableOfContents: '"Uncle Sam" -- Domestic despots -- Cyrano, Rostand, Coquelin --
+  Machine-made men -- Parnassus -- Modern architecture -- Worldly color-blindness
+  -- Idling in mid-ocean -- "Climbers" in England -- Calve at Cabrieres -- A cry for
+  fresh air -- The Paris of our grandparents -- Some American husbands -- "Carolus"
+  -- The grand opera fad -- The poetic cabarets of Paris -- Etiquette at home and
+  abroad -- What is "Art"? -- The genealogical craze -- As the twig is bent -- Seven
+  small duchesses -- Growing old ungracefully -- Around a spring -- The better part
+  -- La Comedie Francaise a Orange -- Pre-palatial Newport -- Sardou at Marly-le-Roy
+  -- Inconsistencies -- Modern "Cadets de Gascogne" -- The dinner and the drama --
+  The modern Aspasia -- A nation in a hurry -- The spirit of history.'
+title: The Ways of Men
+url: http://www.gutenberg.org/ebooks/319
